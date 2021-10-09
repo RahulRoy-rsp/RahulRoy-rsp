@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulRoy-rsp
-- 👀 I’m interested in Programming
+- 👀 Roy Software Programmer
 - 🌱 I’m currently pursuing Msc.Computer Science
 - 💞️ I’m looking to working with Microsoft
 - 📫 How to reach me ...
