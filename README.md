@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul.J.Roy</h1>
+<h1 align="center">Yo! 👋, I'm Rahul.J.Roy</h1>
 <h3 align="center">ROY SOFTWARE PROGRAMMER</h3>
 
 - 💻 I’m currently working on Algorithms for **Fantasy Players Selection and Stocks Analysis**.
