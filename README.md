@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on Algorithms for **Self-Entertain Applications**.
 
-- 🌱 I’m currently pursuing **MSc.Computer Science**.
+- 🌱 **MSc.Computer Science**.
 
 - 👯 I’m looking forward to work in **Silicon Valley**.
 
