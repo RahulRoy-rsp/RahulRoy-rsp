@@ -1,7 +1,7 @@
 <h1 align="center">Yo! 👋, I'm Rahul.J.Roy</h1>
 <h3 align="center">ROY SOFTWARE PROGRAMMER</h3>
 
-- 💻 I’m currently working on Algorithms for **Self-Entertain Applications**.
+- 💻 I love to program Algorithms for **Self-Entertain Applications**.
 
 - 🌱 **MSc.Computer Science**.
 
