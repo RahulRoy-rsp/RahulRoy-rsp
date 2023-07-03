@@ -9,7 +9,7 @@
 
 - 👨‍ You can find out many Short Projects, Mini Games and Algorithms on my Repositories. 
 
-- ⚡ Fun fact **I might get stuck to help you with the code, but I can surely create any algorithm for you**.
+- ⚡ Strangely, **I might get stuck to help you with the code, but I can surely create any algorithm for you**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
