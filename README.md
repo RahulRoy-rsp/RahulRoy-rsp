@@ -16,7 +16,8 @@
 <a href="https://instagram.com/never.gives_up.roy_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="never.gives_up.roy_74" height="30" width="40" /></a>
 <a href="https://twitter.com/nevergivesuproy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nevergivesuproy" height="30" width="40" /></a>
 <a href="https://github.com/RahulRoy-rsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RahulRoy-rsp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahulroy74" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Rahul Roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulroy74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulroy74" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rahulroy74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulroy74" height="30" width="40" /></a>
 
 </p>
 
