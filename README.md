@@ -36,4 +36,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulroy-rsp&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+--- 
+
+#### When I write a non-optimal code
+![When I write a non-optimal code](https://github.com/RahulRoy-rsp/RahulRoy-rsp/assets/91940155/e1013931-02b3-4d17-acdf-6558841ea7fc)
