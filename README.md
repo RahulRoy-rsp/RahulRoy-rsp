@@ -1,9 +1,9 @@
-<h1 align="center">Yo! 👋, I'm Rahul. J. Roy</h1>
+<h1 align="center">Yo! 👋 I'm Rahul. J. Roy</h1>
 <h3 align="center">ROY SOFTWARE PROGRAMMER</h3>
 
 
 # 💫 About Me:
-<br>- 💻 I love to program Algorithms for **Self-Entertain Applications**.<br><br>- 🌱 **MSc.Computer Science**.<br><br>- 👯 Objective -->>> **Silicon Valley**.<br><br>- 👨‍ You can find out many Short Projects, Mini Games and Algorithms on my Repositories. <br><br>- ⚡ Strangely, **I might get stuck to help you with the code, but I can surely create any algorithm for you**.<br>
+<br>- 💻 I love to program Algorithms for **Self-Entertain Applications**.<br><br>- 🌱 **MSc.Computer Science**.<br><br>- 👯 Objective -->>> **Silicon Valley**.<br><br>- 👨‍ You can find out many Short Projects, Mini Games and Algorithms on my Repositories. <br><br>- ⚡ Strangely, **I might get stuck to help you with the code, but I can surely create any logic or Pseudocode for you**.<br>
 
 
 ## 🌐 Socials:
